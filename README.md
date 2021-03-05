@@ -21,7 +21,7 @@ I'm Charlie - a web developer from London.
 ### &#x1f4c8; GitHub stats
 
 <a href="https://github.com/charliedodds/charliedodds">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charliedodds&theme=dark" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charliedodds&theme=dark&layout=compact" />
 </a>
 
 <a href="https://github.com/charliedodds/charliedodds">
