@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/charliedodds/charliedodds/main/wave.gif" alt="waving hand gif" width="30px">
 
 
-### GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/charliedodds/charliedodds">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charliedodds&theme=radical" />
