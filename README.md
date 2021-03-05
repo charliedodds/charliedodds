@@ -1,8 +1,8 @@
-## Hi! I'm Charlie - a web developer from London.
+# Hi! I'm Charlie - a web developer from London.
 
 <img src="https://raw.githubusercontent.com/charliedodds/charliedodds/main/wave.gif" alt="waving hand gif" width="30px">
 
-### &#x1f6e0; Stack
+## &#x1f6e0; Stack
 
 ![](https://img.shields.io/badge/os-linux-000?style=flat&logo=linux)
 ![](https://img.shields.io/badge/design-figma-000?style=flat&logo=figma)
@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/framework-express-000?style=flat&logo=express)
 ![](https://img.shields.io/badge/database-mongoDB-000?style=flat&logo=mongoDB)
 
-### &#x1f4c8; GitHub stats
+## &#x1f4c8; GitHub stats
 
 <a href="https://github.com/charliedodds/charliedodds">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charliedodds&theme=dark&layout=compact" />
