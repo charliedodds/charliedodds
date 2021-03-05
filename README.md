@@ -11,7 +11,7 @@ I'm Charlie - a web developer from London.
 ![](https://img.shields.io/badge/code-css3-000?style=flat&logo=css3)
 ![](https://img.shields.io/badge/style-sass-000?style=flat&logo=sass)
 ![](https://img.shields.io/badge/code-javascript-000?style=flat&logo=javascript)
-![](https://img.shields.io/badge/lib-react-000?style=flat&logo=react)
+![](https://img.shields.io/badge/frontend-react-000?style=flat&logo=react)
 ![](https://img.shields.io/badge/design-material-ui-000?style=flat&logo=material-ui)
 ![](https://img.shields.io/badge/backend-node.js-000?style=flat&logo=node.js)
 ![](https://img.shields.io/badge/framework-express-000?style=flat&logo=express)
