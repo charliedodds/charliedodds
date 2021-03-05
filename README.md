@@ -6,7 +6,7 @@ I'm Charlie - a web developer from London.
 
 ![](https://img.shields.io/badge/os-linux>-000?style=for-the-badge&logo=linux)
 ![](https://img.shields.io/badge/design-figma>-000?style=for-the-badge&logo=figma)
-![](https://img.shields.io/badge/text-vs code>-000?style=for-the-badge&logo=visual-studio-code)
+![](https://img.shields.io/badge/text-vs_code>-000?style=for-the-badge&logo=visual-studio-code)
 ![](https://img.shields.io/badge/code-html5>-000?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/code-css3>-000?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/code-sass>-000?style=for-the-badge&logo=sass)
