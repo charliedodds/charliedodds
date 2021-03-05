@@ -1,6 +1,6 @@
-### Hi there! <img src="https://raw.githubusercontent.com/charliedodds/charliedodds/main/wave.gif" alt="waving hand gif" width="30px">
+## Hi! I'm Charlie - a web developer from London.
 
-I'm Charlie - a web developer from London.
+<img src="https://raw.githubusercontent.com/charliedodds/charliedodds/main/wave.gif" alt="waving hand gif" width="30px">
 
 ### &#x1f6e0; Stack
 
