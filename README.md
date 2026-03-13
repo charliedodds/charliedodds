@@ -4,7 +4,9 @@
 
 ## Work
 
-Recently, I made [react-video-comments](https://www.npmjs.com/package/react-video-comments) for creating video components with interactive timestamped comments in react
+Recently, I made [react-video-comments](https://www.npmjs.com/package/react-video-comments) for creating video components with interactive timestamped comments in react.
+
+You can check out the repo [here](https://github.com/charliedodds/react-video-comments)
 <!--
 ## &#x1f6e0; Stack
 ![](https://img.shields.io/badge/os-linux-000?style=flat&logo=linux)
