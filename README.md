@@ -1,6 +1,10 @@
 # Hi! I'm Charlie.
 
 <img src="https://raw.githubusercontent.com/charliedodds/charliedodds/main/wave.gif" alt="waving hand gif" width="30px">
+
+## Work
+
+Recently, I made [react-video-comments](https://www.npmjs.com/package/react-video-comments) for creating video components with interactive timestamped comments in react
 <!--
 ## &#x1f6e0; Stack
 ![](https://img.shields.io/badge/os-linux-000?style=flat&logo=linux)
